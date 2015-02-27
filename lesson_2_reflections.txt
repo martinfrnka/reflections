@@ -35,3 +35,10 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
   -you can easily see reachability of nodes
+  
+  
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+good is that merge comes automatically, when there is no possible conflict, when you have to make merge allways manually
+it will be lot of work
+
