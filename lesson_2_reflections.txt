@@ -6,5 +6,8 @@ What happens when you initialize a repository? Why do you need to do it?
  
  How is the staging area different from the working directory and the repository? What value do you think it offers?
  - is temporary place to prepare commitment batch
- - 
+
+ git diff -rozdíl mezi working directory a staging area
+ git diff --staged - rizdíl mezi staging area a nejaktualnejsim commitem
+ git diff id1 id2 - rozdil mezi 2 commity
   
