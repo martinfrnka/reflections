@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ - .git folder is created, thus repository structure is prepared
+ - repository is without any commits - "initial commit state"
+ - no files are tracked
+ 
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - is temporary place to prepare commitment batch
+ - 
+  
