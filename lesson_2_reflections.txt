@@ -27,3 +27,6 @@ What are some situations when branches would be helpful in keeping your history 
  git branch   -seznam branchu (a ktery je aktualni)
  git branch branch_name     -vytvoreni branche z aktualniho umisteni
  git checkout branch_name   - checkout do zvoleneho branche
+
+ napriklad - master, development, testing, unique feature branch, apod.
+ dobre pri switchovani kontextu - napr. ted delam na nove ficurce, nebavi me to switchnu do bugfixingu apod...
