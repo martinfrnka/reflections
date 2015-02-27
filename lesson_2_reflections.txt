@@ -10,4 +10,8 @@ What happens when you initialize a repository? Why do you need to do it?
  git diff -rozdíl mezi working directory a staging area
  git diff --staged - rizdíl mezi staging area a nejaktualnejsim commitem
  git diff id1 id2 - rozdil mezi 2 commity
-  
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  - test differences between working directory, staging area and repository
